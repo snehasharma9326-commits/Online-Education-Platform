@@ -28,7 +28,7 @@ A Responsive Online Learning Platform built using HTML, CSS & JavaScript.
 - ℹ️ About Section
 - 🎨 Attractive UI Design
 - 📱 Fully Responsive Layout
-- ⚡ Smooth JavaScript Effects
+
 - 💻 Clean & Organized Code
 
 ---
