@@ -15,7 +15,7 @@ A Responsive Online Learning Platform built using HTML, CSS & JavaScript.
 
 ## 📸 Preview
 
-> Save your homepage screenshot inside the repository as **preview.png**
+> Save your homepage screenshot inside the repository as 
 
 <p align="center">
   <img src="./preview.png" width="100%">
