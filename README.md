@@ -39,7 +39,7 @@ A Responsive Online Learning Platform built using HTML, CSS & JavaScript.
 |------------|-------|
 | HTML5 | Structure |
 | CSS3 | Styling |
-| JavaScript | Functionality |
+
 
 ---
 
@@ -58,7 +58,7 @@ EduLearn/
 
 
 # 🌟 Future Improvements
-
+ 
 - Login & Signup
 - Student Dashboard
 - Course Enrollment
@@ -67,6 +67,7 @@ EduLearn/
 - Backend Integration
 - Database Support
 - Dark Mode
+ -JavaScript 
 
 ---
 
