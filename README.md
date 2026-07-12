@@ -53,36 +53,12 @@ EduLearn/
 │
 ├── index.html
 ├── style.css
-├── script.js
-├── preview.png
-└── README.md
-```
+├── README.md
 
----
 
-# ⚙️ Installation
 
-Clone this repository
 
-```bash
-git clone https://github.com/YourUsername/EduLearn.git
-```
 
-Go to project folder
-
-```bash
-cd EduLearn
-```
-
-Run the project by opening
-
-```text
-index.html
-```
-
-or use Live Server in VS Code.
-
----
 
 # 🌟 Future Improvements
 
@@ -111,8 +87,5 @@ or use Live Server in VS Code.
 
 If you like this project, give it a ⭐ on GitHub.
 
----
 
-## 📜 License
 
-This project is licensed under the MIT License.
